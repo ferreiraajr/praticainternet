@@ -49,7 +49,7 @@ git clone https://github.com/ferreiraajr/praticainternet
 #### Configure o Banco de Dados:
 
 - Crie um banco de dados MySQL chamado clinicmais.
-- Execute as queries SQL necessárias para criar as tabelas noticias e comentarios.
+- Execute o arquivo SQL (sql-clinicmais) para criar as tabelas noticias e comentarios.
 
 #### Configuração do Ambiente:
 
